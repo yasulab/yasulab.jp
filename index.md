@@ -1,4 +1,5 @@
 ---
 layout: redirect
-title:  YasuLab
+title:  YasuLab moved to YassLab
+redirect_url: yasslab.jp
 ---

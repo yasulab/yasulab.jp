@@ -1,7 +1,6 @@
 permalink: /:title
 author:
   name:  yasulab
-  email: yasulab@gmail.com
 
 highlighter: pygments
 exclude:

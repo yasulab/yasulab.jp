@@ -1,8 +1,10 @@
 permalink: /:title
 author:
-  name:  YasuLab & Co.
-  email: yohei@yasulab.com
+  name:  yasulab
+  email: yasulab@gmail.com
 
 highlighter: pygments
-markdown: redcarpet
-exclude: ["vendor", "Gemfile", "Gemfile.lock"]
+exclude:
+- "vendor"
+- "Gemfile"
+- "Gemfile.lock"
